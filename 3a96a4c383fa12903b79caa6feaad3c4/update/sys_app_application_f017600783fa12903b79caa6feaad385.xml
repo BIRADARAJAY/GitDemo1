@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>x_768274_gitdemo1.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>ajay.biradar</sys_created_by>
+        <sys_created_on>2025-01-04 04:04:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f017600783fa12903b79caa6feaad385</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GitDemo1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GitDemo1" source="x_768274_gitdemo1">3a96a4c383fa12903b79caa6feaad3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitDemo1">3a96a4c383fa12903b79caa6feaad3c4</sys_scope>
+        <sys_update_name>sys_app_application_f017600783fa12903b79caa6feaad385</sys_update_name>
+        <sys_updated_by>ajay.biradar</sys_updated_by>
+        <sys_updated_on>2025-01-04 04:04:24</sys_updated_on>
+        <title>GitDemo1</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

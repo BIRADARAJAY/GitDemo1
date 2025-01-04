@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="11a76c0783fa12903b79caa6feaad30b" label="GitToServiceNow" max_length="40" name="x_768274_gitdemo1_gittoservicenow" type="collection">
+        <element label="Git Short Description" max_length="100" name="git_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
