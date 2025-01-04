@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>ajay.biradar</sys_created_by>
+        <sys_created_on>2025-01-04 04:06:34</sys_created_on>
+        <sys_id>eea7ac0783fa12903b79caa6feaad3b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_768274_gitdemo1_gittoservicenow.x_768274_gitdemo1.user</sys_name>
+        <sys_package display_value="GitDemo1" source="x_768274_gitdemo1">3a96a4c383fa12903b79caa6feaad3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitDemo1">3a96a4c383fa12903b79caa6feaad3c4</sys_scope>
+        <sys_security_acl display_value="x_768274_gitdemo1_gittoservicenow">6ea7ac0783fa12903b79caa6feaad3b4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_eea7ac0783fa12903b79caa6feaad3b7</sys_update_name>
+        <sys_updated_by>ajay.biradar</sys_updated_by>
+        <sys_updated_on>2025-01-04 04:06:34</sys_updated_on>
+        <sys_user_role display_value="x_768274_gitdemo1.user" name="x_768274_gitdemo1.user">3696a4c383fa12903b79caa6feaad3d3</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
